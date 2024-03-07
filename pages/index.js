@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div>Joinvideocall</div>;
+  return <div>Whatsapp Verify</div>;
 }
